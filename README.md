@@ -1,4 +1,4 @@
-# Find about me here ➜ [🧑](pauabella.dev)
+# Find about me here ➜ [🧑](https://pauabella.dev)
 
 ### Project links:
 - ***[WhoAmI](https://pauabella.dev)***
