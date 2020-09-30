@@ -6,5 +6,3 @@
 - *ClimbingCompetitionApp [WIP] (not deployed yet)*
 
 ---
-
-![Pau's github stats](https://github-readme-stats.vercel.app/api?username=PauAbellaMolina&show_icons=true&theme=onedark)
