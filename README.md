@@ -6,3 +6,5 @@
 - *ClimbingCompetitionApp [WIP] (not deployed yet)*
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
