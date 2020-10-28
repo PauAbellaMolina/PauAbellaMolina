@@ -1,6 +1,7 @@
 # Find about me here ➜ [🧑](https://pauabella.dev)
 
 ### Project links:
+- *Instafy [WIP] (not deployed yet)*
 - ***[WhoAmI](https://pauabella.dev)***
 - ***[GiveMeTheLyrics](https://pauabella.dev/GiveMeTheLyrics)***
 - *ClimbingCompetitionApp [WIP] (not deployed yet)*
