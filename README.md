@@ -1,10 +1,10 @@
 # Find about me here ➜ [🧑](https://pauabella.dev)
 
 ### Project links:
-- *Instafy [WIP] (not deployed yet)*
+- ***[Instafy](https://instafy.me)***
 - ***[WhoAmI](https://pauabella.dev)***
-- ***[GiveMeTheLyrics Vue Version](lyrics.pauabella.dev)***
-- ***[GiveMeTheLyrics React Version](https://pauabella.dev/GiveMeTheLyrics)***
+- ***[GiveMeTheLyrics in Vue](https://lyrics.pauabella.dev)***
+- ***[GiveMeTheLyrics in React](https://pauabella.dev/GiveMeTheLyrics)***
 
 ---
 <!--START_SECTION:waka-->
