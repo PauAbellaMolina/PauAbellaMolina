@@ -3,8 +3,8 @@
 ### Project links:
 - *Instafy [WIP] (not deployed yet)*
 - ***[WhoAmI](https://pauabella.dev)***
-- ***[GiveMeTheLyrics](https://pauabella.dev/GiveMeTheLyrics)***
-- *ClimbingCompetitionApp [WIP] (not deployed yet)*
+- ***[GiveMeTheLyrics Vue Version](lyrics.pauabella.dev)***
+- ***[GiveMeTheLyrics React Version](https://pauabella.dev/GiveMeTheLyrics)***
 
 ---
 <!--START_SECTION:waka-->
