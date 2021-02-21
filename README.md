@@ -2,7 +2,7 @@
 
 ### Project links:
 - ***[Instafy](https://instafy.me)***
-- ***[WhoAmI](https://pauabella.dev)***
+- ***[WhoIAm](https://pauabella.dev)***
 - ***[GiveMeTheLyrics in Vue](https://lyrics.pauabella.dev)***
 - ***[GiveMeTheLyrics in React](https://pauabella.dev/GiveMeTheLyrics)***
 
