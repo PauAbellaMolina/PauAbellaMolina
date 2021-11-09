@@ -12,10 +12,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
