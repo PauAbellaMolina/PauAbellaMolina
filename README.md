@@ -1,8 +1,8 @@
 # Find about me here ➜ [🧑](https://pauabella.dev)
 
 ### Project links:
+- ***[My Portfolio](https://pauabella.dev)***
 - ***[Instafy](https://instafy.me)***
-- ***[WhoIAm](https://pauabella.dev)***
 - ***[GiveMeTheLyrics in Vue](https://lyrics.pauabella.dev)***
 - ***[GiveMeTheLyrics in React](https://pauabella.dev/GiveMeTheLyrics)***
 
