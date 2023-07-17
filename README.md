@@ -8,7 +8,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C312%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%203%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,5 +25,5 @@ VS Code                  5 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 17/07/2023 20:05:36 UTC
+ Last Updated on 17/07/2023 22:05:12 UTC
 <!--END_SECTION:waka-->
