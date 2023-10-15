@@ -1,12 +1,5 @@
-# Find about me here ➜ [🧑](https://pauabella.dev)
+# Check out my website ⭢ [pauabella.dev](https://pauabella.dev)
 
-### Project links:
-- ***[My Portfolio](https://pauabella.dev)***
-- ***[Instafy](https://instafy.me)*** (currently not working due to changes in the Instagram API)
-- ***[GiveMeTheLyrics in Vue](https://lyrics.pauabella.dev)***
-- ***[GiveMeTheLyrics in React](https://pauabella.dev/GiveMeTheLyrics)***
-
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C560%20hrs%209%20mins-blue)
 
