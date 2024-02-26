@@ -1,7 +1,7 @@
 # Check out my website ⭢ [pauabella.dev](https://pauabella.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C036%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C037%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,5 +15,5 @@ SCSS                     6 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/02/2024 16:05:41 UTC
+ Last Updated on 26/02/2024 18:05:15 UTC
 <!--END_SECTION:waka-->
