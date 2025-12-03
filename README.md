@@ -1,19 +1,8 @@
 # Check out my website ⭢ [pauabella.dev](https://pauabella.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C053%20hrs%205%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               25 hrs 12 mins      ████████████████████████░   95.23 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C056%20hrs%2022%20mins-blue)
 
 
- Last Updated on 03/12/2025 00:29:05 UTC
+ Last Updated on 03/12/2025 02:38:48 UTC
 <!--END_SECTION:waka-->
