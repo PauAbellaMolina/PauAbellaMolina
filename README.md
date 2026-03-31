@@ -1,19 +1,19 @@
 # Check out my website ⭢ [pauabella.dev](https://pauabella.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C432%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C435%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 24 mins      ████████████████████░░░░░   81.23 % 
-CSS                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Gettext Catalog          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               17 hrs 41 mins      █████████████████████░░░░   84.71 % 
+CSS                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Image (svg)              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
- Last Updated on 30/03/2026 22:14:51 UTC
+ Last Updated on 31/03/2026 00:43:11 UTC
 <!--END_SECTION:waka-->
