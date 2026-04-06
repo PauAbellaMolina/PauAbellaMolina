@@ -7,13 +7,12 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 17 mins       ████████████████░░░░░░░░░   62.07 % 
-CSS                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Image (svg)              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               3 hrs 7 mins        ████████████████████████░   95.61 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 
- Last Updated on 05/04/2026 22:10:59 UTC
+ Last Updated on 06/04/2026 00:45:18 UTC
 <!--END_SECTION:waka-->
