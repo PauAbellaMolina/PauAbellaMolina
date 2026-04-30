@@ -7,13 +7,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.25 % 
-TypeScript               2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Other                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
+TypeScript               1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 
 
- Last Updated on 29/04/2026 22:24:14 UTC
+ Last Updated on 30/04/2026 00:54:46 UTC
 <!--END_SECTION:waka-->
