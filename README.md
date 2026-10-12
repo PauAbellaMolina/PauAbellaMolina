@@ -1,1 +1,1 @@
-## Check out my website ⭢ [pauabella.dev](https://pauabella.dev)
+## Check out my website ⭢ [pauabella.com](https://pauabella.com)
